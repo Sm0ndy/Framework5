@@ -1,1 +1,3 @@
-# Framework5
+streamlit
+pandas
+openpyxl
